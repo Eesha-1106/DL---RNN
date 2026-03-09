@@ -5,7 +5,7 @@ To develop a Recurrent Neural Network (RNN) model for predicting stock prices us
 
 ## Problem Statement and Dataset
  to develop a Recurrent Neural Network (RNN) model to predict future stock closing prices. The model is trained on historical stock data and evaluated by comparing its predictions against actual prices on a test set. The key steps involve data preprocessing (scaling and sequence creation), defining the RNN architecture, training the model, and then visualizing the predicted vs. actual prices.
-
+ 
 
 ## DESIGN STEPS
 ### STEP 1: 
